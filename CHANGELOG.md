@@ -6,4 +6,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/rafaelgonzalez/Diggy/e63127ae8243355f6fc4d690307be9e157438553...HEAD
+[Unreleased]: https://github.com/rafaelgonzalez/Diggy/compare/e63127ae8243355f6fc4d690307be9e157438553...HEAD
