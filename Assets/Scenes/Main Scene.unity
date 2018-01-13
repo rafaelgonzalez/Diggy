@@ -1325,7 +1325,7 @@ MonoBehaviour:
   m_AirControl: 1
   m_WhatIsGround:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 4294966984
 --- !u!50 &1101343382
 Rigidbody2D:
   serializedVersion: 4
